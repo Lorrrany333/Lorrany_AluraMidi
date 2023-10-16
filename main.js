@@ -16,10 +16,10 @@ function tocaSomClap () {
  document.querySelector('tecla_puff').onclick = tocaSomPuff
 
 
- function tocaSomClap () {
-   document.querySelector('#som_tecla_clap').play();
+ function tocaSomTim () {
+   document.querySelector('#som_tecla_tim').play();
  }
- document.querySelector('.tecla_clap').onclick = tocaSomClap
+ document.querySelector('.tecla_tim').onclick = tocaSomTim
 
 
  function tocaSomToim () {
