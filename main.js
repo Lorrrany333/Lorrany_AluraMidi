@@ -14,7 +14,18 @@ function tocaSomTim () {
  function tocaSomPuff () {
    document.querySelector('#toca_tecla_puff').play();
 
+
  }
  document.querySelector('tecla_puff').onclick =tocaSomPuff
 
- 
+
+ function tocaSomClap () {
+   document.querySelector('#toca_tecla_clap').play();
+
+ }
+ document.querySelector('.tecla_clap').onclick =tocaSomClap
+
+
+ function tocaSomToim () {
+  document.querySelector('#toca_tecla_toim')
+ }
