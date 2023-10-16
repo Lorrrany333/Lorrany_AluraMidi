@@ -46,4 +46,5 @@ function tocaSomTim () {
 }
  document.querySelector('.tecla_puff').onclick = tocaSomPuff
 
- 
+
+ function tocaSomPsh 
